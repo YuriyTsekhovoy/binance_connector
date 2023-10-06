@@ -1,0 +1,4 @@
+environs
+python-binance
+fastapi
+uvicorn
